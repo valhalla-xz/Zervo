@@ -250,6 +250,16 @@ chrome-downloads-active = ダウンロード（{ $count } 件進行中）
 chrome-download-failed = ダウンロードに失敗しました — { $error }
 chrome-hide-notifications = 通知を隠す
 chrome-notification-count = { $count } 件の通知
+chrome-this-page = This page
+chrome-leave-full-page-mode-s = Leave full-page mode (⌘S)
+chrome-pause-the-engine-cannot-suspend-a-transfer = Pause — the engine cannot suspend a transfer
+chrome-widgets-click-to-open-drag-to-size = Click to open the shelf, drag to resize, or right-click to add a widget.
+chrome-the-engine-cannot-render-this-page = The engine cannot render this page
+chrome-the-certificate-does-not-match-this-site = The certificate does not match this site
+chrome-nothing-answered-at-this-address = Nothing answered at this address
+chrome-the-engine-fell-over-on-this-page = The engine fell over on this page
+chrome-built-without-engine-downloads-responses-the-engine = Built without engine-downloads. Responses the engine cannot render — an archive, an installer — are not offered for saving, so the[…]
+chrome-reveal-in-finder = Reveal in Finder
 
 ## 新しいタブ
 
@@ -278,6 +288,15 @@ newtab-nothing-playing = 再生中のメディアはありません。
 newtab-add-something = 項目を追加…
 newtab-search-hero = { $engine } で検索、またはアドレスを入力
 newtab-search-compact = { $engine } で検索、またはアドレスを入力…
+newtab-zervo-icon = Zervo icon
+newtab-wallpaper-provider = Wallpaper provider
+newtab-commons-picture-of-the-day = Commons picture of the day
+newtab-add-a-city-in-settings-layout = Add a city in Settings › Layout.
+newtab-pin-a-tab-and-it-turns-up = Pin a tab and it turns up here.
+newtab-nowhere-yet-this-fills-as-you-browse = Nowhere yet — this fills as you browse.
+newtab-nothing-saved-yet-the-star-adds-a = Nothing saved yet — the star adds a page.
+newtab-a-place-to-put-something-down = A place to put something down.
+newtab-nothing-to-do-enviable = Nothing to do. Enviable.
 
 ## ダイアログとエラーページ
 
@@ -297,6 +316,8 @@ dialog-http-auth = { $host } がパスワードを要求しています
 dialog-http-saved-password = { $username } の保存済みのパスワードを送信しますか？
 dialog-http-saved-origin = { $host } に保存されている { $username } のパスワードを送信しますか？
 dialog-site-says = { $origin } からのメッセージ
+dialog-the-page-asked-for-this-not-zervo = The page asked for this, not Zervo.
+dialog-site-permission = { $host } wants { $permission }
 error-can-t-render-this = 表示できません
 error-offline = オフライン
 error-not-private = 安全でない接続
@@ -308,6 +329,14 @@ error-this-connection-isn-t-private = この接続は安全ではありません
 error-this-page-stopped = このページは停止しました
 error-try-again = 再試行
 error-back-to-safety = 安全なページに戻る
+error-what-s-missing = What's missing
+error-load-it-again = Load it again
+error-report-it = Report it
+error-not-yet-the-engine-offers-no-way = Not yet: the engine offers no way to accept a certificate it has rejected.
+error-while-you-wait-feature-creep = WHILE YOU WAIT — FEATURE CREEP
+error-that-s-the-whole-list-ship-it = That's the whole list. Ship it.
+error-knock-one-out-the-paddle-follows-the = Knock one out — the paddle follows the pointer.
+error-knock-one-out-move-the-pointer-in = Knock one out — move the pointer in here, or just press a brick.
 
 ## 外観とレイアウト
 
